@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Angular, Flutter, Dart**
 
-- 📫 How to reach me **ssoviguidivenance@gmail.com**
+- 📫 How to reach me **soviguidivenance@gmail.com**
 
 - ⚡ Fun fact **eat  | sleep | code | repeate**
 
